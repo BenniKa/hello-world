@@ -1,2 +1,5 @@
 # hello-world
-ideas and resources 
+
+Hi Humans,
+
+this is some text, see it?
